@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "guw9X8qRiMA8atK64T6ySAIa9uGCN0dNKPm+5/ZoZXSSDYsri0wFrEzhRxH1gZO+DgLtKdB6Xxg006fEFfW95A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\examenparcial1\\examenparcial1\\examenparcial3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
